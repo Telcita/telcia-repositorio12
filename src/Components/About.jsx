@@ -36,7 +36,7 @@ const skillsList = [
   "Public comunication",
   "Arduino Programing",
   "Project Managment",
-  "Team working",
+  "Artificial Inteligence",
   
 ];
 
