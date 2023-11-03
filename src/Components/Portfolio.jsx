@@ -31,16 +31,15 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "electronic water monitoring system",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Build an electronic system for monitoring daily water consumption",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Electronic queue control system in the health center",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Build an electronic system capable of controlling hospital ranks, electronic passwords through RFID..",
+  
   },
 
  
